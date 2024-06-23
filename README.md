@@ -1,2 +1,2 @@
-#This is an Amazon Clone
+# This is an Amazon Clone
 # add all the pictures
