@@ -1,1 +1,2 @@
-# This is my Readme file
+#This is an Amazon Clone
+# add all the pictures
